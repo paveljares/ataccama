@@ -1,0 +1,6 @@
+.project
+.settings
+*.bak
+.classpath
+target
+test-output
